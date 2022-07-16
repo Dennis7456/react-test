@@ -1,0 +1,8 @@
+//Intelisense with Jest
+{
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
